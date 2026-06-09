@@ -1,2 +1,2 @@
 # hello-world
-Practice R and Github 
+Practice R and GitHub 
